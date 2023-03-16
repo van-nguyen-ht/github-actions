@@ -1,5 +1,5 @@
 {
-  "repository": "@your-organization/your-specify-repository",
+  "repository": "@c-design-tokens/expand-typography",
   "head": "specify",
   "base": "main",
   "rules": [
@@ -12,7 +12,8 @@
           "font",
           "border",
           "vector",
-          "measurement"
+          "measurement",
+          "typography",
         ]
       },
       "parsers": [
